@@ -1,0 +1,63 @@
+{  
+   "status":"success",
+   "statusMessage":"Request was successful",
+   "data":[  
+      {  
+         "Date":"Today 10:00 AM",
+         "messageCount":"148",
+         "Message":[  
+            {  
+               "messageType":"MESSAGE_OUT",
+               "messageId":"ca5448c3-5efd-4648-8d02-996cbc8be4bc",
+               "messageDate":"2018-08-31T14:37:32.02",
+               "messageBody":"Isn't every Friday happy?",
+               "messageToNumber":"+13142106437   ",
+               "messageToName":"Kent Franks",
+               "messageFromNumber":"+15312081830",
+               "messageFromName":"vigilius.booke",
+               "messageIsRead":true,
+               "messageStatus":"delivered",
+               "timezone":"Pacific Time Zone",
+               "statustime":"8/31/2018 7:37:33 AM",
+               "clientid":"16090646"
+            },
+            {  
+               "messageType":"MESSAGE_OUT",
+               "messageId":"dce6716c-7221-410a-b118-8e245a298c2f",
+               "messageDate":"2018-08-31T14:37:15.413",
+               "messageBody":"Is it?",
+               "messageToNumber":"+13142106437   ",
+               "messageToName":"Kent Franks",
+               "messageFromNumber":"+15312081830",
+               "messageFromName":"vigilius.booke",
+               "messageIsRead":true,
+               "messageStatus":"delivered",
+               "timezone":"Pacific Time Zone",
+               "statustime":"8/31/2018 7:37:17 AM",
+               "clientid":"16090646"
+            }
+         ]
+      },
+      {  
+         "Date":"Today 09:00 AM",
+         "messageCount":"148",
+         "Message":[  
+            {  
+               "messageType":"MESSAGE_OUT",
+               "messageId":"bcc94086-6ce5-4919-90f0-9cf9c85124d4",
+               "messageDate":"2018-08-31T13:56:55.797",
+               "messageBody":"Happy Friday!!!",
+               "messageToNumber":"+13142106437   ",
+               "messageToName":"Kent Franks",
+               "messageFromNumber":"+15312081830",
+               "messageFromName":"vigilius.booke",
+               "messageIsRead":true,
+               "messageStatus":"delivered",
+               "timezone":"Pacific Time Zone",
+               "statustime":"8/31/2018 6:56:58 AM",
+               "clientid":"16090646"
+            }
+         ]
+      }
+   ]
+}

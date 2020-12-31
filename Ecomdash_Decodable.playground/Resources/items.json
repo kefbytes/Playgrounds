@@ -1,0 +1,40 @@
+{
+   "Items":[
+      {
+         "Id":19585633.0,
+         "ShipmentId":15635255.0,
+         "OrderLineItemId":69968910.0,
+         "QuantityShipped":1.0,
+         "IsShipped":true,
+         "CompanyCarrier":{
+            "Id":117938.0,
+            "Name":"FedEx (Integrated)"
+         },
+         "TrackingNumber":"111111111",
+         "CustomsValue":0.00,
+         "EstimatedDeliveryDate":"2020-02-04T00:00:00",
+         "ProductId":81206243.0,
+         "ProductSku":"0000-14305",
+         "ProductName":"Folding Shovel, High Carbon Steel Handle, Nylon Carry Case, Powder Coat Finish",
+         "IsConfirmed":true
+      },
+      {
+         "Id":19585634.0,
+         "ShipmentId":15635255.0,
+         "OrderLineItemId":69968915.0,
+         "QuantityShipped":1.0,
+         "IsShipped":true,
+         "CompanyCarrier":{
+            "Id":117938.0,
+            "Name":"FedEx (Integrated)"
+         },
+         "TrackingNumber":"111111111",
+         "CustomsValue":0.00,
+         "EstimatedDeliveryDate":"2020-02-04T00:00:00",
+         "ProductId":81207277.0,
+         "ProductSku":"0000-17290",
+         "ProductName":"Camping Self Inflating Sleeping Pad with Attached Pillow",
+         "IsConfirmed":false
+      }
+   ]
+}
